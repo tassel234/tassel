@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Teches on test</title>
+    <link>/tech/</link>
+    <description>Recent content in Teches on test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Jul 2023 23:09:14 +0800</lastBuildDate><atom:link href="/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fortest</title>
+      <link>/tech/fortest/</link>
+      <pubDate>Tue, 11 Jul 2023 23:09:14 +0800</pubDate>
+      
+      <guid>/tech/fortest/</guid>
+      <description>#我的第一篇博客test</description>
+    </item>
+    
+    <item>
+      <title>Fst</title>
+      <link>/tech/7.11/</link>
+      <pubDate>Tue, 11 Jul 2023 23:09:14 +0800</pubDate>
+      
+      <guid>/tech/7.11/</guid>
+      <description>7.11 在系统变量的path，点击进去，然后新建目录
+使用hugo的详细的博客搭建教程
+10.control tab 切换该应用下的页面
+11.Alt+Tab（切换应用程序）
+切换应用的神器，老板来了，随时可以从游戏界面切换到工作界面！
+12.Ctrl+F4（关闭当前标签（窗口））
+13.Ctrl+N（新建空白窗口）
+可新建浏览器、Excel、Word、PPT空白页，好用！
+14.Ctrl+F（查找）
+该功能是实现打开“查找”面版，可以查找Excel、Word中内容，工作中必用！
+15.Alt+F4（关闭所有打开的窗口）
+19.Win+i（打开“Windows设置”）
+20.Win+L（锁屏）
+17.Win+D（显示桌面）
+18.Win+R（打开“运行”）</description>
+    </item>
+    
+  </channel>
+</rss>
